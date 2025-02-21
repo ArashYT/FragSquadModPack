@@ -4,9 +4,6 @@
   "versions": [
     {
         "id": "0.15",
-        "promotions": {
-            "downloads": {
-                "curseforge": "https://www.curseforge.com/minecraft/modpacks/the-lads-fort/files/6216189",
             }
         }
     }
